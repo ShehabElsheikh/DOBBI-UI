@@ -1,0 +1,8 @@
+# utils/config.py
+
+MODEL_PATH = "best.pt"
+CAMERA_INDEX = 0
+CONFIDENCE_THRESHOLD = 0.25
+
+SERIAL_PORT = "COM13"
+BAUD_RATE = 9600
